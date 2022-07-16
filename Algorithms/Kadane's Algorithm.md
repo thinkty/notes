@@ -1,5 +1,5 @@
 # Kadane's Algorithm
-This algorithm is used for finding the min/max sum of subarrays given an array.
+This algorithm is used for finding the min/max sum of subarrays given an array in O(N) where N is the size of the given array.
 With some additional variables it can also find the subarray itself.
 
 ###### Implementation
