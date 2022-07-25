@@ -1,3 +1,7 @@
+---
+category: algorithms
+---
+
 # Permutation
 Given an array of numbers/letters, find all possible permutations.
 The implementation below uses [backtracking](https://www.baeldung.com/cs/backtracking-algorithms), which is a brute force algorithm to find all solutions to a problem.

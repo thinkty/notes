@@ -1,3 +1,7 @@
+---
+category: algorithms
+---
+
 # Reverse Linked List
 To reverse a given linked list, one can use recursive or iterative methods. I personally find recursive method to be more easy to understand.
 

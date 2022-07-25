@@ -1,3 +1,7 @@
+---
+category: algorithms
+---
+
 # Breadth First Search
 This algorithm is used for iterating/searching a tree/graph data structure using a stack (LIFO).
 

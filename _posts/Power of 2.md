@@ -1,3 +1,7 @@
+---
+category: algorithms
+---
+
 # Power of 2
 Using bit manipulation, one can easily find if the given number (n >= 0) is a power of 2.
 The core idea is that if a number is a power of 2, the binary form of that number will always have only one 1-bit.

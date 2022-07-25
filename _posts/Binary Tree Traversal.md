@@ -1,3 +1,7 @@
+---
+category: algorithms
+---
+
 # Binary Tree Traversal
 
 ![[binary-tree-example.png]]

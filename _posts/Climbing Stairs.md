@@ -1,3 +1,7 @@
+---
+category: algorithms
+---
+
 # Climbing Stairs
 A famous dynamic programming question. Given a staircase of N steps, one can take one or two steps everytime. How many ways are there to climb N steps?
 

@@ -1,3 +1,7 @@
+---
+category: algorithms
+---
+
 # Matrix Traversal
 Matrix (or 2 dimensional array) can be traversed using BFS/DFS in O(**m × n**) where **m** and **n** are rows and columns (= number of cells in the matrix).
 

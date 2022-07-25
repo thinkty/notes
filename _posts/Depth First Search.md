@@ -1,3 +1,7 @@
+---
+category: algorithms
+---
+
 # Depth First Search
 This algorithm is used for iterating/searching a tree/graph data structure using a queue (FIFO).
 
