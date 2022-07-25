@@ -23,5 +23,4 @@ If we execute an & operation on a number that is a power of 2 and that number su
 bool isPowerOf2(int n) {
 	return n > 0 && !(n & n - 1);
 }
-
 ```
